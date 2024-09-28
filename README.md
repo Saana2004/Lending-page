@@ -35,13 +35,3 @@ The designs were created to the following widths:
 
 - Font size: 18px
 
-### Font
-
-- Family: [Public Sans](https://fonts.google.com/specimen/Public+Sans)
-- Weights: 300, 400
-
-## Welcome Frontend Mentor! 👋
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
-
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
