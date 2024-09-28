@@ -1,0 +1,32 @@
+
+Lending Page
+
+This repository contains the source code for the Easybank landing page project, developed using Sass, HTML, and CSS.
+
+Project Overview
+
+The project showcases a responsive landing page with modern design elements and a user-friendly interface.
+
+Features
+
+- Responsive design for both mobile and desktop views.
+- Clean and organized code structure.
+- Implemented styles using Sass for better maintainability.
+
+Project Structure
+
+- index.html: Main HTML file.
+- style-guide.md: Contains style guidelines and design specifications.
+
+How to Use
+
+1. Clone the repository.
+2. Open index.html in your web browser to view the landing page.
+
+Live Demo
+
+You can view a live demo of the project [here](https://yomarsanchez.github.io/easybank-landing-page).
+
+Resources
+
+- Challenge: [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
